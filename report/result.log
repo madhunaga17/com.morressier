@@ -1,0 +1,27 @@
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:42:51,492 com.morressier.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:42:51,846 com.morressier.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:42:51,922 com.morressier.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:42:52,283 com.morressier.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/26_08_2018_04_42_51.html 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:43:30,497 com.morressier.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:43:30,734 com.morressier.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:43:30,762 com.morressier.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:43:30,986 com.morressier.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/26_08_2018_04_43_30.html 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:44:08,982 com.morressier.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:44:09,220 com.morressier.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:44:09,248 com.morressier.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:44:23,011 com.morressier.base.BaseTest.preCondition(BaseTest.java:114) Auto login 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:44:25,239 com.morressier.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:testAutoLoginLogout 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:44:25,257 com.morressier.scripts.LoginLogoutTest.testAutoLoginLogout(LoginLogoutTest.java:10) This script will automatically login and logout 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:44:25,261 com.morressier.base.BaseTest.postCondition(BaseTest.java:143) Test is PASSED 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:44:25,269 com.morressier.base.BaseTest.postCondition(BaseTest.java:148) Auto logout 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:44:45,551 com.morressier.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/26_08_2018_04_44_08.html 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:50:20,511 com.morressier.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:50:20,753 com.morressier.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:50:20,781 com.morressier.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:50:29,642 com.morressier.base.BaseTest.preCondition(BaseTest.java:114) Auto login 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:50:32,312 com.morressier.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:testAutoLoginLogout 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:50:32,328 com.morressier.scripts.LoginLogoutTest.testAutoLoginLogout(LoginLogoutTest.java:10) This script will automatically login and logout 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:50:32,336 com.morressier.base.BaseTest.postCondition(BaseTest.java:143) Test is PASSED 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:50:32,340 com.morressier.base.BaseTest.postCondition(BaseTest.java:148) Auto logout 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:50:33,784 com.morressier.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.morressier.scripts.LoginLogoutTest 2018-08-26 16:50:34,845 com.morressier.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/26_08_2018_04_50_20.html 
